@@ -20,7 +20,7 @@ Motivation
 Author
 ------
 
-Jackie Fletcher
+Jackie Fletcher and Matt Terrill
 
 License
 -------
